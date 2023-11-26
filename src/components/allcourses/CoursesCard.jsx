@@ -37,7 +37,7 @@ const CoursesCard = () => {
                   {val.priceAll}
                 </h3>
               </div>
-              <div class="button1"><a href="https://www.udemy.com/course/datastructurescncpp/">Register</a></div>
+              <div class="button1"><a href={val.link}>Register</a></div>
             </div>
           ))}
         </div>
@@ -45,5 +45,4 @@ const CoursesCard = () => {
     </>
   )
 }
-
 export default CoursesCard

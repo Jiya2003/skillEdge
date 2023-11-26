@@ -18,29 +18,7 @@ export const homeAbout = [
       desc: "Learn with the expert trainers worldwide in your own languange. Gain knowledge and share your ratings.",
     },
   ]
-  // export const awrapper = [
-  //   {
-  //     cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
-  //     data: "3,000",
-  //     title: "SUCCESS STORIES",
-  //   },
   
-  //   {
-  //     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-  //     data: "320",
-  //     title: "TRUSTED TUTORS",
-  //   },
-  //   {
-  //     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-  //     data: "1,000",
-  //     title: "SCHEDULES",
-  //   },
-  //   {
-  //     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-  //     data: "587",
-  //     title: "COURSES",
-  //   },
-  // ]
   export const coursesCard = [
     {
       id: 1,
@@ -58,7 +36,7 @@ export const homeAbout = [
     {
       id: 2,
       cover: "../images/courses/c2.png",
-      coursesName: "Introduction to advance DBMS concepts",
+      coursesName: "Introduction to advance Database management concepts",
       courTeacher: [
         {
           
@@ -101,7 +79,7 @@ export const homeAbout = [
     {
       id: 5,
       cover: "../images/courses/c5.png",
-      coursesName: "Introducing to Programming with ReactJS",
+      coursesName: "Introduction to ReactJS -Basics",
       courTeacher: [
         {
           
@@ -157,7 +135,7 @@ export const homeAbout = [
     {
       id: 9,
       cover: "../images/courses/c9.png",
-      coursesName: "Best course on fundamentals of cloud computing",
+      coursesName: "Fundamentals of cloud computing",
       courTeacher: [
         {
           
